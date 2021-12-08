@@ -1,0 +1,10 @@
+gunicorn
+flask
+python-dotenv
+flask-cors
+flask-api
+pymongo
+requests
+python-dateutil
+pytz
+dnspython
